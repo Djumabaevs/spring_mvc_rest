@@ -13,6 +13,9 @@ import javax.sql.DataSource;
 import java.beans.PropertyVetoException;
 import java.util.Properties;
 
+
+//Awesome project
+
 @Configuration
 @ComponentScan(basePackages = "com.bakyt.spring.rest")
 @EnableWebMvc
